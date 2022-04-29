@@ -1718,6 +1718,7 @@ a.list-group-item:focus,a.list-group-item:hover,button.list-group-item:focus,but
 	margin:10px 10px
 }
 .kratos-post-content p {
+	text-indent: 2em;
 	margin-bottom:1em;
 	font-size:16px;
 	color:#333
